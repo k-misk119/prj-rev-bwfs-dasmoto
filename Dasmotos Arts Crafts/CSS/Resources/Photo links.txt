@@ -1,0 +1,14 @@
+Header Background:
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+
+Brushes:
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg
+
+Frames:
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg
+
+Paint:
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg
+
+Redline
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
